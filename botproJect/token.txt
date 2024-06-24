@@ -1,0 +1,2 @@
+Токен бота: MTI1NDY5NjM4Nzc5OTQxNjgzMw.GH2I0a.ranuiIQDUunOlw5106TKx3u61yF1sOW_KnrzxE
+Это надо вставить в переменную token_2 в самом конце программы
